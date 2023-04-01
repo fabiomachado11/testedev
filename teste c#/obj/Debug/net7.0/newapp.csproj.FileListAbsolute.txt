@@ -1,0 +1,15 @@
+C:\Users\lucas\newapp\bin\Debug\net7.0\newapp.exe
+C:\Users\lucas\newapp\bin\Debug\net7.0\newapp.deps.json
+C:\Users\lucas\newapp\bin\Debug\net7.0\newapp.runtimeconfig.json
+C:\Users\lucas\newapp\bin\Debug\net7.0\newapp.dll
+C:\Users\lucas\newapp\bin\Debug\net7.0\newapp.pdb
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.csproj.AssemblyReference.cache
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.AssemblyInfoInputs.cache
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.AssemblyInfo.cs
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.dll
+C:\Users\lucas\newapp\obj\Debug\net7.0\refint\newapp.dll
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.pdb
+C:\Users\lucas\newapp\obj\Debug\net7.0\newapp.genruntimeconfig.cache
+C:\Users\lucas\newapp\obj\Debug\net7.0\ref\newapp.dll
