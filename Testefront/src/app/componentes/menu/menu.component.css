@@ -1,0 +1,90 @@
+.logo{
+  position: absolute;
+  width: 312px;
+  height: 289px;
+  left: 50px;
+  top: 21px;
+}
+
+
+
+.qbranco{
+  position: absolute;
+  width: 1366px;
+  height: 398px;
+  left: 0px;
+  top: 370px;
+
+  background: #D9D9D9;
+}
+
+.qazul{
+  position: absolute;
+  width: 1366px;
+  height: 77px;
+  left: 0px;
+  top: 0px;
+
+  background: #006DAB;
+}
+
+
+p{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+background: #006DAB;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.nome{
+  position: absolute;
+  width: 219px;
+  height: 63px;
+  left: 50px;
+  top: 0px;
+  background: #006DAB;
+}
+
+.sobrenome{
+  position: absolute;
+  width: 219px;
+  height: 63px;
+  left: 269px;
+  top: 0px;
+  background: #006DAB;
+}
+
+.data{
+  position: absolute;
+  width: 219px;
+  height: 63px;
+  left: 626px;
+  top: 0px;
+  background: #006DAB;
+}
+
+.email{
+  position: absolute;
+  width: 219px;
+  height: 63px;
+  left: 833px;
+  top: 0px;
+  background: #006DAB;
+}
+
+.cpf{
+  position: absolute;
+  width: 219px;
+  height: 63px;
+  left: 1104px;
+  top: 0px;
+  background: #006DAB;
+}
+
